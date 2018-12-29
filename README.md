@@ -10,3 +10,6 @@ Analyzing your playlist and recommending songs
 Work in progress - need to figure out a way to add predicted 'liked' songs back to your playlist
 
 Come back on 1/10/2019!
+
+Note:
+You need to register yourself with Spotify's API to get your own client ID, client secret and set a redirect uri for yourself. Go to https://developer.spotify.com/dashboard/applications/ for more info
